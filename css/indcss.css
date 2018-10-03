@@ -29,21 +29,7 @@ nav > ul > li > a {
     text-decoration: none;
 }
 
-#page1 {
-    font-family: 'Poiret One', cursive;
-    color: #000080
-}
-
-#page2 {
-    font-family: 'Poiret One', cursive;
-    color: #000080
-}
-
-#page3 {
-    font-family: 'Poiret One', cursive;
-}
-
-#page4{
+p{
     font-family: 'Poiret One', cursive;
     color: #000080
 }
