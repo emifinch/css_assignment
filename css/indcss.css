@@ -28,8 +28,8 @@ body{
     font-size: 15px;   
     background-color: #fa938f;
     background-image: url("images/flowerback.jpg");
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
     color: #000080;
     font-family: 'Poiret One', cursive;
 }
