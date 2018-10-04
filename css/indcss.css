@@ -24,7 +24,7 @@ nav > ul > li > a {
 
 body{
     margin: 0;
-    padding: 0;
+    padding: 0.5em;
     font-size: 15px;
     background-color: rgb(247, 176, 176);
     color: #000080;
