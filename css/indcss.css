@@ -25,7 +25,8 @@ nav > ul > li > a {
 body{
     margin: 0;
     padding: 0;
-    font-size: 15px;   
+    font-size: 15px;  
+    background-color:#ffb4b1;
     background-image: url('images/flowerback.jpg');
     background-repeat: no-repeat;
     background-size: cover;
