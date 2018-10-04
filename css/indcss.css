@@ -34,3 +34,7 @@ body{
 header{
     color: #e06f24;
 }
+
+a:hover {
+    background-color: maroon;
+}
