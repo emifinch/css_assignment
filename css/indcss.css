@@ -27,7 +27,7 @@ body{
     padding: 0;
     font-size: 15px;
     background-color: rgb(247, 176, 176);
-    background-image:url("flowerback.jpg");
+    background-image:(images/"flowerback.jpg");
     color: #000080;
     font-family: 'Poiret One', cursive;
 }
